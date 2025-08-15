@@ -18,7 +18,7 @@
 
 
 class Keys:
-    """Set of special keys codes."""
+    """Set of special key codes for keyboard actions."""
 
     NULL = "\ue000"
     CANCEL = "\ue001"  # ^break
@@ -58,7 +58,7 @@ class Keys:
     SEMICOLON = "\ue018"
     EQUALS = "\ue019"
 
-    NUMPAD0 = "\ue01a"  # number pad keys
+    NUMPAD0 = "\ue01a"  # Keys representing number pad digits.
     NUMPAD1 = "\ue01b"
     NUMPAD2 = "\ue01c"
     NUMPAD3 = "\ue01d"
