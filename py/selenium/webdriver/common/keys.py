@@ -18,7 +18,10 @@
 
 
 class Keys:
-    """Set of special key codes for keyboard actions."""
+    """Set of special key codes for input actions.
+
+        Primarily intended for keyboard usage, but also applied in other contexts
+        such as Action Chains and IME interactions."""
 
     NULL = "\ue000"
     CANCEL = "\ue001"  # ^break
@@ -58,7 +61,8 @@ class Keys:
     SEMICOLON = "\ue018"
     EQUALS = "\ue019"
 
-    NUMPAD0 = "\ue01a"  # Keys representing number pad digits.
+    # Keys representing number pad digits (NUMPAD0–NUMPAD9)
+    NUMPAD0 = "\ue01a"  
     NUMPAD1 = "\ue01b"
     NUMPAD2 = "\ue01c"
     NUMPAD3 = "\ue01d"
