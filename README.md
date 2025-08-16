@@ -6,6 +6,13 @@
   <br/>
 </h1>
 
+<!-- practice: badges for my fork -->
+![GitHub Repo stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social)
+![GitHub forks](https://img.shields.io/github/forks/SeleniumHQ/selenium)
+![GitHub issues](https://img.shields.io/github/issues/SeleniumHQ/selenium)
+
+> Учебная практика: мой форк Selenium. Здесь я тренируюсь делать небольшие изменения (документация/форматирование), создавать ветки и открывать PR.
+
 <h3 align="center">Automates browsers. That's it!</h3>
 
 <p align="center">
